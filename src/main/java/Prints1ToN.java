@@ -1,7 +1,7 @@
 public class Prints1ToN {
     public static void main(String[] args) {
 
-        //printNumberToN(11);
+        printNumberToN(11);
         unableToDivideTo3And7(12);
     }
     public static void printNumberToN(int N){
